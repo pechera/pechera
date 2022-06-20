@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Roma
 
-I'm frontend developer, inspired by web and modern approaches in development.
+I'm js developer, inspired by web and modern approaches in development.
 
 ## 💻 Skills
 <p>
